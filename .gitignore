@@ -1,0 +1,9 @@
+node_modules/
+/lib/
+/test/
+custom-elements.json
+# top level source
+app-element.js
+app-element.js.map
+app-element.d.ts
+app-element.d.ts.map
